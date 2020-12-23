@@ -1,0 +1,86 @@
+
+.first__page {
+    padding-top: 100px;
+    display: flex;
+}
+
+article {
+    padding: 0 40px;
+}
+
+.about__second__page {
+    float: left;
+    width: 33%;
+}
+
+.features {
+    clear: both;
+}
+
+.feature {
+    display: flex;
+}
+
+.feature div {
+    width: 50%;
+}
+
+.draw {
+    margin-top: 200px;
+}
+
+.options {
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+}
+
+.option {
+    width: calc(30% - 5px);
+}
+
+.best__option {
+    margin: -10px 0;
+}
+
+.footer__sec {
+    display: grid;
+    grid-template-areas: 
+    "a b"
+    "c d";
+}
+
+.footer__item {
+    padding-top: 60px;
+}
+.a {
+    grid-area: a;
+    padding-left: 30%;
+}
+
+.b {
+    grid-area: b;
+    padding-right: 30%;
+}
+
+.c {
+    grid-area: c;
+    padding-left: 30%;
+}
+
+.d {
+    grid-area: d;
+    padding-right: 30%;
+}
+
+.icons {
+    margin-top: 30px;
+}
+
+.advantage {
+    font-size: 20px;
+}
+
+.your__time {
+    margin-top: 30px;
+}
