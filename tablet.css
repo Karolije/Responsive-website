@@ -4,6 +4,10 @@
     display: flex;
 }
 
+.main__text {
+    padding-top: 20px;
+}
+
 article {
     padding: 0 40px;
 }
@@ -19,6 +23,7 @@ article {
 
 .feature {
     display: flex;
+    width: 100%;
 }
 
 .feature div {

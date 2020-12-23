@@ -22,6 +22,10 @@ h1 {
     padding-top: 20px;
 }
 
+.main__text {
+    padding-top: 60px;
+}
+
 h3 {
     font-size: 18px;
     color: white;
@@ -378,4 +382,8 @@ header input {
 
 .desktop_nav {
     display: none;
+}
+
+.g {
+    text-align: center;
 }
